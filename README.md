@@ -102,10 +102,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://ko-fi.com/notfound"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akashblackhat" /></a></p><br><br>
+<p><a href="https://ko-fi.com/notfound"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="THE-BADBOY" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashblackhat&show_icons=true&locale=en&layout=compact" alt="akashblackhat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=THE-BADBOY&show_icons=true&locale=en&layout=compact" alt="THE-BADBOY" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashblackhat&show_icons=true&locale=en" alt="akashblackhat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=THE-BADBOY&show_icons=true&locale=en" alt="THE-BADBOY" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashblackhat&" alt="akashblackhat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-BADBOY&" alt="THE-BADBOY" /></p>
